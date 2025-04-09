@@ -1,6 +1,6 @@
 package view;
 
-public class Truu {
+public class Tru {
 	public static int tinh(int a, int b) {
         return a - b;
     }
