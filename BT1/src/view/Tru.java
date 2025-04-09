@@ -1,7 +1,7 @@
 package view;
 
 public class Tru {
-	public static int tinh(int a, int b) {
+	public static int tinhh(int a, int b) {
         return a - b;
     }
 }
